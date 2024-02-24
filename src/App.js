@@ -1,9 +1,10 @@
+import Container from 'react-bootstrap/Container'
 
 function App() {
   return (
-    <div>
-      Hello World
-    </div>
+    <Container>
+      awdawdawd
+    </Container>
   );
 }
 
